@@ -22,3 +22,6 @@
 [submodule "homeassistant/external/pymysensors"]
 	path = homeassistant/external/pymysensors
 	url = https://github.com/theolind/pymysensors
+[submodule "unifi"]
+	path = homeassistant/external/unifi
+	url = https://github.com/calmh/unifi-api
